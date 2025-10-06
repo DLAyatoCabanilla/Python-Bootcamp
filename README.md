@@ -27,9 +27,9 @@ Data Science & Machine Learning: Introduction to data manipulation and basic ML 
 Each day's work is organized into a separate folder, making it easy to navigate and review specific concepts or projects:
 
 Folder Name Example	Description	Status
+
 Day 01 - Band Name Generator	Introductions, printing, variables, and input.	✅ Completed
-Day 05 - Password Generator	Python Lists, Loops, and range().	⏳ In Progress
-Day XX - Project Title	Brief description of the main project.	💡 Upcoming
+
 
 Export to Sheets
 🛠️ Technologies & Tools
