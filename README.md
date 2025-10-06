@@ -2,7 +2,7 @@
 
 ## 100 Days of Code: Python Pro Bootcamp
 
-Welcome to my personal journey through **The 100 Days of Code: The Complete Python Pro Bootcamp for 2024** by **Dr. Angela Yu** on **Udemy**. This repository serves as a dedicated space to document, organize, and share all the code, projects, and challenges completed as I work my way through this comprehensive Python programming course.
+Welcome to my personal journey through **The 100 Days of Code: The Complete Python Pro Bootcamp for 2025** by **Dr. Angela Yu** on **Udemy**. This repository serves as a dedicated space to document, organize, and share all the code, projects, and challenges completed as I work my way through this comprehensive Python programming course.
 
 ---
 
@@ -71,8 +71,8 @@ If you'd like to explore any of the projects, follow these steps:
 
 I'm documenting this journey to learn and grow. Feel free to explore, use the code, and offer suggestions!
 
-* **GitHub:** [Your GitHub Profile Link]
-* **LinkedIn:** [Your LinkedIn Profile Link] *(Optional: Include if you have one)*
+* **GitHub:** https://github.com/DLAyatoCabanilla
+
 
 ---
 
