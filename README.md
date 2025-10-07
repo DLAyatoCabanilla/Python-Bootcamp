@@ -30,11 +30,11 @@ The course is structured to cover a vast range of topics, from fundamental Pytho
 
 Each day's work is organized into a separate folder, making it easy to navigate and review specific concepts or projects:
 
-| Folder Name Example | Description | Status |
+| Folder Name | Description | Status |
 | :--- | :--- | :--- |
 | `Day 01 - Band Name Generator` | Introductions, printing, variables, and input. | ✅ **Completed** |
-| `Day 02 - Password Generator` | Python Lists, Loops, and range(). | ⏳ **In Progress** |
-| `Day XX - Project Title` | *Brief description of the main project.* | 💡 **Upcoming** |
+| `Day 02 - BMI Calculator` | Primitive Data types, Type Conversion and Number Manipulation. | ✅ **Completed** |
+| `Day XX - Project Title` | *Brief description of the main project.* | ⏳ **In Progress** |
 
 ---
 
