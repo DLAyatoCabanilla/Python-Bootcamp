@@ -34,6 +34,7 @@ Each day's work is organized into a separate folder, making it easy to navigate 
 | :--- | :--- | :--- |
 | `Day 01 - Band Name Generator` | Introductions, printing, variables, and input. | ✅ **Completed** |
 | `Day 02 - BMI Calculator` | Primitive Data types, Type Conversion and Number Manipulation. | ✅ **Completed** |
+| `Day 03 - Tip Calculator` | Mathematical Operations, Scripting and F-Strings. | ✅ **Completed** |
 | `Day XX - Project Title` | *Brief description of the main project.* | ⏳ **In Progress** |
 
 ---
